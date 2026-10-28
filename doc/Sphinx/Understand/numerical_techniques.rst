@@ -10,6 +10,7 @@ run time.
 
    azimuthal_modes_decomposition
    laser_envelope
+   laser_from_lasy
    particle_merging
    particle_injector
    relativistic_fields_initialization
